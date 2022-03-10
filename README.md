@@ -1,6 +1,6 @@
-# Eaii, eu sou o João Godinho!!
+# Hello, my name is João Godinho!
 
-## Essas são algumas das tecnologias que uso em meus projetos / trabalho:
+## Some of technologies that I used to work in my projects and jobs:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -12,7 +12,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-F05032?style=for-the-badge&logo=cypress&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 
-## Para entrar em contato comigo:
+## Contact me on:
 <div>
   <a href = "mailto:godinhojoao2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
