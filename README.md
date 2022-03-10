@@ -12,6 +12,12 @@
 ![Cypress](https://img.shields.io/badge/Cypress-F05032?style=for-the-badge&logo=cypress&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 
+## Current jobs:
+- :computer:  Fullstack Developer @[Fieldcontrol](https://fieldcontrol.com.br/)
+- :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
+  - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes .
+- :purple_heart: Passionate with web development and especially front-end.
+
 ## Contact me on:
 <div>
   <a href = "mailto:godinhojoao2003@gmail.com">
