@@ -16,7 +16,7 @@
 - :computer:  Fullstack Developer @[Fieldcontrol](https://fieldcontrol.com.br/)
 - :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
   - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes .
-- :purple_heart: Passionate with web development and especially front-end.
+- :purple_heart: Passionate with web development.
 
 ## Contact me on:
 <div>
