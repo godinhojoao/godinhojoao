@@ -13,7 +13,7 @@
 ![Graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Current jobs:
-- :computer:  Fullstack Developer @[Fieldcontrol](https://fieldcontrol.com.br/)
+- :computer:  Back End Developer @[Paipe.co](https://www.paipe.co/)
 - :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
   - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes .
 - :purple_heart: Passionate with web development.
