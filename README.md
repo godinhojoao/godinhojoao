@@ -14,7 +14,7 @@
 
 ## Current jobs:
 - :computer:  Back End Developer @[Paipe.co](https://www.paipe.co/)
-- :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
+- :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/); Jul 2021 - Dec 2022
   - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes .
 - :purple_heart: Passionate with web development.
 
