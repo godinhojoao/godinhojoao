@@ -2,20 +2,23 @@
 
 ## Some of technologies that I used to work in my projects and jobs:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-F05032?style=for-the-badge&logo=cypress&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 
-## Current jobs:
-- :computer:  Back End Developer @[Paipe.co](https://www.paipe.co/)
+## Jobs:
+- :computer:  Back End Developer @[Paipe.co](https://www.paipe.co/); Current
+- :computer:  Fullstack Developer @[FieldControl](https://fieldcontrol.com.br/); Jul 2022 - Mar 2023 
 - :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/); Jul 2021 - Dec 2022
-  - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes .
+  - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes.
 - :purple_heart: Passionate with web development.
 
 ## Contact me on:
