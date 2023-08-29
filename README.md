@@ -15,10 +15,8 @@
 ![Cypress](https://img.shields.io/badge/Cypress-F05032?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## Jobs:
-- :computer:  Back End Developer @[Paipe.co](https://www.paipe.co/); Current
-- :computer:  Fullstack Developer @[FieldControl](https://fieldcontrol.com.br/); Jul 2022 - Mar 2023 
-- :mag: Technological initiation scholarship at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/); Jul 2021 - Dec 2022
-  - Using technology to solve problems in real projects to a biology teacher, developing projects with scientific and educational purposes.
+- :computer:  Fullstack Developer @[PMC Group I](https://www.pmcgroupone.com/);
+- :mag: Graduation course: Technology in Systems Analysis and Development at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
 - :purple_heart: Passionate with web development.
 
 ## Contact me on:
