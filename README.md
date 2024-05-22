@@ -18,8 +18,7 @@
 
 ## Jobs:
 - :computer:  Fullstack Developer @[PMC Group I](https://www.pmcgroupone.com/);
-- :mag: Graduation course: Technology in Systems Analysis and Development at @[IFSUL - Instituto Federal Sul-rio-grandense](http://www.bage.ifsul.edu.br/);
-- :purple_heart: Passionate with web development.
+- :mag: Bachelor's degree, Computer Science @[UFPel - Universidade Federal de Pelotas](https://portal.ufpel.edu.br/);
 
 ## Contact me on:
 <div>
