@@ -16,7 +16,7 @@
 
 ## Information
 - :computer:  Fullstack Developer @[PMC Group I](https://www.pmcgroupone.com/);
-- :mag: Bachelor's degree, Computer Science @[UFPel - Universidade Federal de Pelotas](https://portal.ufpel.edu.br/);
+- :mag: Bachelor's degree, Computer Science @[UFPel - Universidade Federal de Pelotas](https://portal.ufpel.edu.br/); - in progress
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b6b00431-de89-4002-8f95-3931e7aa35af/public_url);
 - [JSNAD: OpenJS Node.js Application Developer](https://www.credly.com/badges/6be9cd6f-30c3-424c-812a-bf95defcc630/public_url);
 
